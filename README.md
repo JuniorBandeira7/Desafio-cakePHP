@@ -61,3 +61,12 @@ CREATE TABLE Products (
 ```bash
 bin/cake server
 ```
+Após esses passos será possível fazer as operações de crud nas tabelas Categories e Products nos respectivos endereços: 
+
+```bash
+http://localhost:8765/categories
+```
+
+```bash
+http://localhost:8765/products
+```
